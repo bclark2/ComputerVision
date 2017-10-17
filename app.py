@@ -5,7 +5,7 @@ from io import StringIO, BytesIO
 import cv2
 import numpy as np 
 
-app = Flask('Edges')
+app = Flask('edges')
 CORS(app)
 
 def cv_engine(img, operation):
