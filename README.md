@@ -25,4 +25,4 @@ Computer vision flask example
 8. start python server with python3 app.py
 
 9. navigate to the client folder and run the following command,
-(http-server .)  
+http-server .  
