@@ -1,5 +1,5 @@
 # ComputerVision
-Computer vision flask example
+Computer vision Flask example
 
 1. npm install http-server -g
 
